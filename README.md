@@ -30,4 +30,11 @@ STEPS
             open C:/windows/system32
     STEP 5: rename upsyskey.exe to syskey.exe
     STEP 6: run the ‘new’ syskey.exe
-    STEP 7: press CTRL + ALT + Q to open the settings  for tweaking upSyskey
+    STEP 7: press CTRL + ALT + Q to open the settings of upSyskey
+
+
+Tips
+
+TIP 1: TakeOwnershipEx is a free tool that allows you to get full access to files and folders in an easy way.
+
+TIP 2: Remove the uninstall info in the registery

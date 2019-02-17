@@ -1,5 +1,5 @@
-# UPSyskey
-Fake Syskey for Windows XP, Vista and 7
+# UPSyskey | a fake Syskey for Windows XP, Vista and 7
+
 
 This fake syskey can drive scammers mad.
 P.e. a floating confirmation button, passwords which never will match, disallowed passwords. Showing movies, picturers, websites, run executables, a.s.o.

@@ -14,7 +14,7 @@ Features :
 How to install?
 Before we start:
 
-    Install this program only on a virtual machines!
+    Install this program only on a virtual machine!
     You MUST HAVE owner rights for deleting or renaming syskey.exe in windows/system32. See also Tip 1 below.
 
 STEPS

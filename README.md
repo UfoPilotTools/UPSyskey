@@ -1,4 +1,4 @@
-# UPSyskey | a fake Syskey for Windows XP, Vista and 7
+# UPSyskey | a fake Syskey for Windows XP, Vista. WIN 8, WIN 10
 
 
 This fake syskey can drive scammers mad.
